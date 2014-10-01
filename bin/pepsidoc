@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pepsidoc_commands'
+
+PepsidocCommands.new(ARGV).run
